@@ -1,0 +1,35 @@
+# Dataset
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+*.pth
+*.pt
+*.ckpt
+
+# Model outputs
+models/*
+!models/.gitkeep
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Experiment results
+results/figures/*
+results/metrics/*

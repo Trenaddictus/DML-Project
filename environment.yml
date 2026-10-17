@@ -1,0 +1,25 @@
+name: dml-rotation
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - torch
+      - torchvision
+      - numpy
+      - pandas
+      - matplotlib
+      - seaborn
+      - opencv-python
+      - pillow
+      - scikit-learn
+      - scipy
+      - tqdm
+      - pyyaml
+      - google-api-python-client
+      - ultralytics
