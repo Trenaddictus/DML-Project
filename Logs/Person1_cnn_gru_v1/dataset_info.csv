@@ -1,0 +1,2 @@
+dataset_id,source_video,mode,seed,num_frames,max_angle,max_step,rotation_version
+Person1_cnn_gru_v1,train/Person1,train,42,103,360.0,10.0,whole_video_v1
