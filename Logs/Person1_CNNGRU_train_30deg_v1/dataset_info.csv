@@ -1,0 +1,2 @@
+dataset_id,source_video,mode,seed,num_frames,max_angle,max_step,rotation_version
+Person1_CNNGRU_train_30deg_v1,train/Person1,train,42,103,30.0,3.0,whole_video_v1
