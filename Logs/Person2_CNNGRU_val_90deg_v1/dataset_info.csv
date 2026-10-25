@@ -1,2 +1,0 @@
-dataset_id,source_video,mode,seed,num_frames,max_angle,max_step,rotation_version
-Person2_CNNGRU_val_90deg_v1,val/Person2,fixed,40,113,90.0,10.0,whole_video_v1

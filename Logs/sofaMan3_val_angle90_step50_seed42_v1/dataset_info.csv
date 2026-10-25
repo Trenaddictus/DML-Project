@@ -1,2 +1,0 @@
-dataset_id,source_video,mode,seed,num_frames,max_angle,max_step,rotation_version
-sofaMan3_val_angle90_step50_seed42_v1,val/sofaMan3,fixed,42,219,90.0,50.0,whole_video_v1

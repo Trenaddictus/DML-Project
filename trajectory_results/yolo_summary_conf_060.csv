@@ -1,0 +1,3 @@
+Input,Detected frames,Total frames,Detection rate,Mean confidence,Median confidence
+Raw rotated frames,32,104,0.3076923076923077,0.8197642993181944,0.8394155204296112
+CNN-GRU stabilized frames,63,104,0.6057692307692307,0.8355154574863495,0.8565307855606079

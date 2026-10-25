@@ -1,2 +1,0 @@
-dataset_id,source_video,mode,seed,num_frames,max_angle,max_step,rotation_version
-90,train/Person1,train,7,103,90.0,50.0,whole_video_v1
